@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [EK Mobile Site Automation Test Suite]">
+  <listeners>
+    <listener class-name="com.EK.MobileSite.ExtentReportListener.ExtentReporterNG"/>
+  </listeners>
+  <test name="EK Mobile Site Test Cases(failed)">
+    <classes>
+      <class name="com.EK.MobileSite.testcases.HomePageTest">
+        <methods>
+          <include name="TearDown"/>
+          <include name="verifyMobileTermsAndConditionsLink"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.EK.MobileSite.testcases.HomePageTest -->
+    </classes>
+  </test> <!-- EK Mobile Site Test Cases(failed) -->
+</suite> <!-- Failed suite [EK Mobile Site Automation Test Suite] -->

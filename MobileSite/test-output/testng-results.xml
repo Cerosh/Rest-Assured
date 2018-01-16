@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="EK Mobile Site Automation Test Suite" duration-ms="65469" started-at="2018-01-15T19:44:59Z" finished-at="2018-01-15T19:46:04Z">
+    <groups>
+    </groups>
+    <test name="EK Mobile Site Test Cases" duration-ms="65469" started-at="2018-01-15T19:44:59Z" finished-at="2018-01-15T19:46:04Z">
+      <class name="com.EK.MobileSite.testcases.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.EK.MobileSite.testcases.HomePageTest@6a4f787b]" name="setup" is-config="true" duration-ms="7276" started-at="2018-01-15T23:44:59Z" finished-at="2018-01-15T23:45:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyFeaturedFareLink()[pri:0, instance:com.EK.MobileSite.testcases.HomePageTest@6a4f787b]" name="verifyFeaturedFareLink" duration-ms="6957" started-at="2018-01-15T23:45:06Z" finished-at="2018-01-15T23:45:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFeaturedFareLink -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.EK.MobileSite.testcases.HomePageTest@6a4f787b]" name="TearDown" is-config="true" duration-ms="118" started-at="2018-01-15T23:45:13Z" finished-at="2018-01-15T23:45:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.EK.MobileSite.testcases.HomePageTest@6a4f787b]" name="setup" is-config="true" duration-ms="7226" started-at="2018-01-15T23:45:13Z" finished-at="2018-01-15T23:45:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyManageABookingLink()[pri:0, instance:com.EK.MobileSite.testcases.HomePageTest@6a4f787b]" name="verifyManageABookingLink" duration-ms="1905" started-at="2018-01-15T23:45:20Z" finished-at="2018-01-15T23:45:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyManageABookingLink -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.EK.MobileSite.testcases.HomePageTest@6a4f787b]" name="TearDown" is-config="true" duration-ms="90" started-at="2018-01-15T23:45:22Z" finished-at="2018-01-15T23:45:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.EK.MobileSite.testcases.HomePageTest@6a4f787b]" name="setup" is-config="true" duration-ms="4795" started-at="2018-01-15T23:45:22Z" finished-at="2018-01-15T23:45:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyOnlineCheckinLink()[pri:0, instance:com.EK.MobileSite.testcases.HomePageTest@6a4f787b]" name="verifyOnlineCheckinLink" duration-ms="3424" started-at="2018-01-15T23:45:27Z" finished-at="2018-01-15T23:45:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOnlineCheckinLink -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.EK.MobileSite.testcases.HomePageTest@6a4f787b]" name="TearDown" is-config="true" duration-ms="94" started-at="2018-01-15T23:45:31Z" finished-at="2018-01-15T23:45:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.EK.MobileSite.testcases.HomePageTest@6a4f787b]" name="setup" is-config="true" duration-ms="4992" started-at="2018-01-15T23:45:31Z" finished-at="2018-01-15T23:45:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="HomePageTitleTest()[pri:1, instance:com.EK.MobileSite.testcases.HomePageTest@6a4f787b]" name="HomePageTitleTest" duration-ms="11" started-at="2018-01-15T23:45:36Z" finished-at="2018-01-15T23:45:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageTitleTest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.EK.MobileSite.testcases.HomePageTest@6a4f787b]" name="TearDown" is-config="true" duration-ms="94" started-at="2018-01-15T23:45:36Z" finished-at="2018-01-15T23:45:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.EK.MobileSite.testcases.HomePageTest@6a4f787b]" name="setup" is-config="true" duration-ms="5425" started-at="2018-01-15T23:45:36Z" finished-at="2018-01-15T23:45:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyMakeABookingLink()[pri:2, instance:com.EK.MobileSite.testcases.HomePageTest@6a4f787b]" name="verifyMakeABookingLink" duration-ms="4903" started-at="2018-01-15T23:45:41Z" finished-at="2018-01-15T23:45:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMakeABookingLink -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.EK.MobileSite.testcases.HomePageTest@6a4f787b]" name="TearDown" is-config="true" duration-ms="96" started-at="2018-01-15T23:45:46Z" finished-at="2018-01-15T23:45:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.EK.MobileSite.testcases.HomePageTest@6a4f787b]" name="setup" is-config="true" duration-ms="5597" started-at="2018-01-15T23:45:46Z" finished-at="2018-01-15T23:45:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyFlightStatusLink()[pri:3, instance:com.EK.MobileSite.testcases.HomePageTest@6a4f787b]" name="verifyFlightStatusLink" duration-ms="3801" started-at="2018-01-15T23:45:52Z" finished-at="2018-01-15T23:45:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFlightStatusLink -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.EK.MobileSite.testcases.HomePageTest@6a4f787b]" name="TearDown" is-config="true" duration-ms="86" started-at="2018-01-15T23:45:56Z" finished-at="2018-01-15T23:45:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.EK.MobileSite.testcases.HomePageTest@6a4f787b]" name="setup" is-config="true" duration-ms="5135" started-at="2018-01-15T23:45:56Z" finished-at="2018-01-15T23:46:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyMobileTermsAndConditionsLink()[pri:4, instance:com.EK.MobileSite.testcases.HomePageTest@6a4f787b]" name="verifyMobileTermsAndConditionsLink" duration-ms="3328" started-at="2018-01-15T23:46:01Z" finished-at="2018-01-15T23:46:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMobileTermsAndConditionsLink -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.EK.MobileSite.testcases.HomePageTest@6a4f787b]" name="TearDown" is-config="true" duration-ms="89" started-at="2018-01-15T23:46:04Z" finished-at="2018-01-15T23:46:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.EK.MobileSite.testcases.HomePageTest -->
+    </test> <!-- EK Mobile Site Test Cases -->
+  </suite> <!-- EK Mobile Site Automation Test Suite -->
+</testng-results>

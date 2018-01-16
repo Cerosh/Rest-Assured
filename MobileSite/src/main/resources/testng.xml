@@ -1,0 +1,23 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="EK Mobile Site Automation Test Suite">
+
+	<listeners>
+		<listener class-name="com.EK.MobileSite.ExtentReportListener.ExtentReporterNG" />
+	</listeners>
+
+
+
+	<test name="EK Mobile Site Test Cases">
+		<classes>
+			
+			<class name="com.EK.MobileSite.testcases.HomePageTest"></class>
+			<!-- 
+			<class name="com.EK.MobileSite.testcases.FlightSearchFromHomePageTest"></class>
+			<class name="com.EK.MobileSite.testcases.MobileTermsAndConditionsPageTest"></class>
+			<class name="com.EK.MobileSite.testcases.PageFootersTest"></class>
+			<class name="com.EK.MobileSite.testcases.SearchResultsPageTest"></class> -->
+
+		</classes>
+	</test>
+</suite>
