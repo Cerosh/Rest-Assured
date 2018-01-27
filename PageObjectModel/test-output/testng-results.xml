@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="129053" started-at="2018-01-27T19:09:27Z" finished-at="2018-01-27T19:11:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="129053" started-at="2018-01-27T19:09:27Z" finished-at="2018-01-27T19:11:36Z">
+      <class name="POWithPageElements.TestPage">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:POWithPageElements.TestPage@1e88b3c]" name="setUp" is-config="true" duration-ms="1148" started-at="2018-01-27T23:09:27Z" finished-at="2018-01-27T23:09:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchReturnsResults()[pri:1, instance:POWithPageElements.TestPage@1e88b3c]" name="searchReturnsResults" duration-ms="48156" started-at="2018-01-27T23:09:28Z" finished-at="2018-01-27T23:10:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchReturnsResults -->
+        <test-method status="PASS" signature="goToPage()[pri:2, instance:POWithPageElements.TestPage@1e88b3c]" name="goToPage" duration-ms="10320" started-at="2018-01-27T23:10:16Z" finished-at="2018-01-27T23:10:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToPage -->
+        <test-method status="PASS" signature="goToNextPage()[pri:3, instance:POWithPageElements.TestPage@1e88b3c]" name="goToNextPage" duration-ms="39125" started-at="2018-01-27T23:10:27Z" finished-at="2018-01-27T23:11:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToNextPage -->
+        <test-method status="PASS" signature="goToPrvsPage()[pri:4, instance:POWithPageElements.TestPage@1e88b3c]" name="goToPrvsPage" duration-ms="30186" started-at="2018-01-27T23:11:06Z" finished-at="2018-01-27T23:11:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToPrvsPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:POWithPageElements.TestPage@1e88b3c]" name="tearDown" is-config="true" duration-ms="103" started-at="2018-01-27T23:11:36Z" finished-at="2018-01-27T23:11:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- POWithPageElements.TestPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
